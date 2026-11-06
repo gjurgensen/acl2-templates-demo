@@ -1,0 +1,2 @@
+This file exists so that the try-pr-template branch differs from main.
+Open a pull request from this branch to see the pull request template.
